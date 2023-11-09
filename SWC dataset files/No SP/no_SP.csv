@@ -1,0 +1,8 @@
+neuron_name,Basal_Density,bas_turnover,Apical_Density,ap_turnover,Axon_Density,ax_turnover,ap_postsyn_num,bas_postsyn_num,presynaptic_num,sum_postsyn_num,Soma_depth,AD
+140611bA,,,,,,,,,,0,270,1
+140611bB,,,,,,,,,,0,165,1
+140909a1,,,,,,,,,,0,99,0
+141118a,,,,,,,,,,0,224,1
+141118c,,,,,,,,,,,240,1
+150119a,,,,,,,,,,,164,1
+150422b,,,,,,,,,,,144,1

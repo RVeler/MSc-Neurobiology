@@ -1,0 +1,3 @@
+neuron_name,Basal_Density,bas_turnover,Apical_Density,ap_turnover,Axon_Density,ax_turnover,ap_postsyn_num,bas_postsyn_num,presynaptic_num,sum_postsyn_num,Soma_depth,AD
+140904b (140903b),1.1,7,0.95,11.7,0.32,10.215,,0,nan,0,250,0
+150703b,1.23,11.3,1.67,15.455,0.24,17.85,,0,nan,0,126,3
